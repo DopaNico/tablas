@@ -1,0 +1,21 @@
+tr:nth-child(even) {
+    background-color: gray;
+} 
+
+tr:nth-child(odd) {
+    background-color: rgb(197, 197, 197);
+}
+
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+table {
+    display: flex;
+    align-content: center;
+}
